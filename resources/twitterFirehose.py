@@ -23,10 +23,10 @@ restList = ["@Textastrophe", "@YouTube", "@iPhoneTeam", "@KatyPerry", "@TheEllen
 track = ' , '.join(restList)
 
 
-twitter_token = "EtQF2YGPr448k1eXGbUAKdOaa"
-twitter_secret = "xaGuEs3b8Socsp8lB6xBCBP6P1WnQLsklqXRqngfK32NWKMibc"
-access_token = "270963696-vt4BlPvIpwi4XmuXJFXSRJctbxwSIPT0jxLBLTMB"
-access_secret = "i9IgkLPGyX5jOS6bAk8wIjbBUJg54qvqUwuSktzMFTjzd"
+twitter_token = ""
+twitter_secret = ""
+access_token = ""
+access_secret = ""
 
 streamer = TweetStreamer(twitter_token, twitter_secret,
                          access_token, access_secret)
